@@ -1,6 +1,6 @@
  👋 Hi, I’m Przemo84
  
- 👀 I’m interested in web apps. Since autumn 2017 I collaborate in commercial backend development mainy in PHP Laravel na Java Spring.
+ 👀 I’m interested in web apps. Since autumn 2017 I have collaborated in commercial projects on backend side. I've gained experience mainly in PHP Laravel na Java Spring.
  
  🌱 I’m currently learning on how to handle legacy code. That's why I study Domain Driven Develpment and Design Patterns.
  
